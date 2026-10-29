@@ -326,6 +326,10 @@ details.direct .options{margin-top:14px}
   .cart-drawer{top:auto;left:8px;right:8px;bottom:8px;width:auto;max-height:88vh}.buybox{padding:18px}
 }
 @media (prefers-reduced-motion:reduce){.cart-drawer,.cart-overlay,.pack span,.cart-btn{transition:none}}
+/* placeholder logo */
+.logo{display:inline-flex;align-items:center;gap:12px}
+.logo .logo-img{height:45px;width:auto;flex:none}
+@media (max-width:640px){.logo .logo-img{height:34px}}
 </style><script >/* =====================================================================
    SITE CONFIG — the ONE place to edit.
    - SITE_NAME: rename the site everywhere (header, footer, page titles).
@@ -617,7 +621,7 @@ window.CATALOG = {
 <body>
 <div class="disclosure-bar"><a href="index.html">Back to the full site</a> · Heads up: we earn a commission if you buy through links on this site, at no extra cost to you. <a href="disclosure.html">Learn more</a>.</div>
 <header class="site"><div class="wrap">
-<a class="logo" href="index.html"><span data-site-name>Peak Fuel Picks</span><span class="dot">.</span></a>
+<a class="logo" href="index.html"><img class="logo-img" src="assets/img/logo-placeholder.svg" alt="Ultra Human placeholder logo" width="176" height="45"><span data-site-name>Peak Fuel Picks</span><span class="dot">.</span></a>
 <nav class="main"><a href="index.html#products">Products</a><a class="hide-sm" href="index.html#why">Why</a><a class="hide-sm" href="index.html#faq">FAQ</a><a href="testimonials.html">Reviews</a><a class="hide-sm" href="about.html">About</a></nav>
 <button class="cart-btn" type="button" data-cart-open aria-label="Open cart" aria-controls="cart-drawer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 7h12l-1 13H7L6 7Z"/><path d="M9 7a3 3 0 0 1 6 0"/></svg><span class="cart-count" data-cart-count hidden>0</span></button>
 </div></header>

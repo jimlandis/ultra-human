@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Ultra Human placeholder photo">
+<defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c4f9e"/><stop offset=".5" stop-color="#222842"/><stop offset="1" stop-color="#b17340"/></linearGradient>
+<linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d7af4f"/><stop offset=".5" stop-color="#e65126"/><stop offset="1" stop-color="#37a39d"/></linearGradient></defs>
+<rect width="1200" height="420" fill="url(#s)"/>
+<rect x="12" y="12" width="1176" height="396" rx="18" fill="none" stroke="#d9a377" stroke-width="2.5" stroke-dasharray="11 8" opacity=".8"/>
+<g transform="translate(600.0,138.6)" fill="none" stroke="#eef0f6" stroke-width="6.0" stroke-linejoin="round" opacity=".7">
+<rect x="-72.0" y="-48.0" width="144.0" height="102.00000000000001" rx="14.4"/><circle cx="0" cy="3.6" r="28.8"/></g>
+<text x="600.0" y="243.6" text-anchor="middle" font-family="Georgia,serif" font-size="60" fill="#eef0f6">Ultra Human</text>
+<text x="600.0" y="288.6" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-size="30" fill="#c3c8da">Lifestyle banner · real · raw · driven</text>
+<rect x="505.0" y="306.6" width="190" height="34" rx="17" fill="url(#t)"/>
+<text x="600.0" y="328.6" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#12141f">Photo coming soon</text>
+</svg>

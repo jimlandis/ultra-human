@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Detox-19® placeholder photo">
+<defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c4f9e"/><stop offset=".5" stop-color="#222842"/><stop offset="1" stop-color="#b17340"/></linearGradient>
+<linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d7af4f"/><stop offset=".5" stop-color="#e65126"/><stop offset="1" stop-color="#37a39d"/></linearGradient></defs>
+<rect width="600" height="600" fill="url(#s)"/>
+<rect x="12" y="12" width="576" height="576" rx="18" fill="none" stroke="#d9a377" stroke-width="2.5" stroke-dasharray="11 8" opacity=".8"/>
+<g transform="translate(300.0,198.0)" fill="none" stroke="#eef0f6" stroke-width="3" stroke-linejoin="round" opacity=".7">
+<rect x="-36.0" y="-24.0" width="72.0" height="51.00000000000001" rx="7.2"/><circle cx="0" cy="1.8" r="14.4"/></g>
+<text x="300.0" y="348.0" text-anchor="middle" font-family="Georgia,serif" font-size="37" fill="#eef0f6">Detox-19®</text>
+<text x="300.0" y="376.125" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-size="17" fill="#c3c8da">Lifestyle photo</text>
+<rect x="205.0" y="387.375" width="190" height="34" rx="17" fill="url(#t)"/>
+<text x="300.0" y="409.375" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#12141f">Photo coming soon</text>
+</svg>
